@@ -85,3 +85,7 @@ pre[class*='language-'] {
 .notion-collection-row {
   @apply hidden;
 }
+.notion-h1, .notion-h2, .notion-h3 {
+  @apply mb-2;
+  @apply text-left;
+}
