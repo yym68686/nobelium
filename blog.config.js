@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '',
+  title: 'yym68686',
   author: 'yym68686',
   email: 'yym68686@outlook.com',
   link: 'https://nobelium.vercel.app',
-  description: '',
+  description: 'Infosec and specifically web guy.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
